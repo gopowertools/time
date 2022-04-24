@@ -1,2 +1,2 @@
-# time
-Utilities relating to the management of time and date.
+# ttime
+Includes Provider - which makes it easy to write time-sensitive unit tests.
